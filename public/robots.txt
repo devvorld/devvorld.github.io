@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://devvorld.github.io/sitemap.xml
+Host: https://devvorld.github.io
